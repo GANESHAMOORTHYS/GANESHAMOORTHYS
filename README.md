@@ -1,5 +1,5 @@
-- 👋 Hi, I’m GANESHAMOORTHYS
-- 💻 Web Developer | Mobile App Developer | UI Developer
+- 👋 Hi, I’m GANESHA MOORTHY S
+- 💻 Software Developer
 - 🚀 Passionate about building digital solutions that make an impact. I specialize in React, React Native, and full-stack development, constantly exploring new technologies to enhance my skill set.
 - 🎯 Looking for collaborations on innovative projects with unpredictable destinations.
 - 📩 Reach me at ganesh04dev@gmail.com
